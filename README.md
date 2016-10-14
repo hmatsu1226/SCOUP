@@ -4,7 +4,7 @@ SCOUP : a probabilistic model based on the Ornstein-Uhlenbeck process to analyze
 
 ## Reference
 
-In submission.
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1109-3
 
 ## Requirements
 
