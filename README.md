@@ -233,8 +233,8 @@ Calculate the correlation between genes after standardization.
 
 * Input_file1 : G x C matrix of expression data
 * Input_file2 : Initial distribution data
-* Input_file3 : ** Semi-optimized gene and lineage parameters (Output_file1 of scoup) **
-* Input_file4 : ** Semi-optimized cell parameters (Output_file2 of scoup) **
+* Input_file3 : Optimized gene and lineage parameters (Output_file1 of scoup)
+* Input_file4 : Optimized cell parameters (Output_file2 of scoup)
 * Output_file1 : Standardized expression matrix
 * Output_file2 : G x G correlation matrix
 * G : The number of genes
